@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34278f56-e3ec-41db-937a-2f3ee3646f16" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/concurrency/ChildProcessDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/concurrency/ConceptSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/concurrency/Thread.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/concurrency/ThreadBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/concurrency/ThreadMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/concurrency/ThreadSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/lange/ControlFlowStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/lange/ExpressionsStatementsAndBlocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/lange/Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/lange/PrimiitiveDteType.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/develop/maven" />
+        <option name="pluginUpdatePolicy" value="DO_NOT_UPDATE" />
+        <option name="userSettingsFile" value="D:\develop\maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="createModuleGroups" value="true" />
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1r9IiBlcktDHFuOTsPLo8DTHdtb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../guava" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\awei\github\deepinjava\src\main\java\com\liuawei\deepinjava\concurrency\concurren" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\awei\github\deepinjava\src\main\java\com\liuawei\deepinjava\concurrency\Thread" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MurMurHashUtils">
+    <configuration name="DeadLockSimple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liuawei.deepinjava.concurrency.concurren.DeadLockSimple" />
+      <module name="deepinjava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MurMurHashUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liuawei.deepinjava.algorithm.hash.MurMurHashUtils" />
+      <module name="deepinjava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SynchronizedDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liuawei.deepinjava.concurrency.concurren.SynchronizedDemo" />
+      <module name="deepinjava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadAlternatePrint (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liuawei.deepinjava.concurrency.thread.ThreadAlternatePrint" />
+      <module name="deepinjava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadProducerAndConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liuawei.deepinjava.concurrency.concurren.ThreadProducerAndConsumer" />
+      <module name="deepinjava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MurMurHashUtils" />
+        <item itemvalue="Application.ThreadProducerAndConsumer" />
+        <item itemvalue="Application.ThreadAlternatePrint (1)" />
+        <item itemvalue="Application.DeadLockSimple" />
+        <item itemvalue="Application.SynchronizedDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1620207813473">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1620207813473" />
+    <state x="3192" y="242" key="#com.intellij.ide.util.MemberChooser" timestamp="1621237798828">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1272" y="242" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1620214806774" />
+    <state x="3192" y="242" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1621237798828" />
+    <state x="409" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1620226504849">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="409" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1620226504849" />
+    <state width="485" height="466" key="DebuggerActiveHint" timestamp="1621392111168">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="418" height="466" key="DebuggerActiveHint/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1620200631717" />
+    <state width="485" height="466" key="DebuggerActiveHint/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1621392111168" />
+    <state x="2698" y="222" key="FileChooserDialogImpl" timestamp="1621245831605">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1247" y="288" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1620199808390" />
+    <state x="2698" y="222" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1621245831605" />
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom" timestamp="1621392083594">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1620544831304" />
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1621392083594" />
+    <state width="1877" height="368" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1618423321005" />
+    <state width="1877" height="347" key="GridCell.Tab.0.center" timestamp="1621392083594">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1620544831304" />
+    <state width="1877" height="347" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1621392083594" />
+    <state width="1877" height="368" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1618423321005" />
+    <state width="1877" height="347" key="GridCell.Tab.0.left" timestamp="1621392083594">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1620544831304" />
+    <state width="1877" height="347" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1621392083594" />
+    <state width="1877" height="368" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1618423321005" />
+    <state width="1877" height="347" key="GridCell.Tab.0.right" timestamp="1621392083594">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1620544831304" />
+    <state width="1877" height="347" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1621392083594" />
+    <state width="1877" height="368" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1618423321005" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1621392083900">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="2119" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1620203344165" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1621392083900" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1621392083900">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="2119" height="344" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1620203344165" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1621392083900" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1621392083899">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="2119" height="344" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1620203344165" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1621392083899" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1621392083900">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="2119" height="344" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1620203344165" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1621392083900" />
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1620207821323">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1620207821323" />
+    <state x="576" y="150" key="SettingsEditor" timestamp="1620546671740">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="576" y="150" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1620546671740" />
+    <state x="1277" y="278" width="582" height="524" key="StructurePopup" timestamp="1620548783664">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1277" y="278" width="582" height="524" key="StructurePopup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1620548783664" />
+    <state x="690" y="271" key="extract.method.dialog" timestamp="1620207698803">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="271" key="extract.method.dialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1620207698803" />
+    <state x="1226" y="262" width="659" height="542" key="find.popup" timestamp="1620548760637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1226" y="262" width="659" height="542" key="find.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1620548760637" />
+    <state x="1212" y="249" key="run.anything.popup" timestamp="1620196140305">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1212" y="249" key="run.anything.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1620196140305" />
+    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1621140065152">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1621140065152" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1620545850433" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1618391405798" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1618414483313" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/concurrency/thread/ChildProcessDemo.java</url>
+          <line>14</line>
+          <properties class="com.liuawei.deepinjava.concurrency.thread.ChildProcessDemo" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/concurrency/thread/ThreadInterruptSimple.java</url>
+          <line>9</line>
+          <properties class="com.liuawei.deepinjava.concurrency.thread.ThreadInterruptSimple" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/algorithm/hash/MurMurHashUtils.java</url>
+          <line>19</line>
+          <properties class="com.liuawei.deepinjava.algorithm.hash.MurMurHashUtils" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/algorithm/hash/MurMurHashUtils.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/algorithm/hash/MurMurHashUtils.java</url>
+          <line>116</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
