@@ -5,76 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34278f56-e3ec-41db-937a-2f3ee3646f16" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/algorithm/hash/ConsistentHash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/algorithm/hash/MurMurHashUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/collection/HashMapSimple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/HelloWorldController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/HelloWorldController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/algorithm/hash/MD5Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/algorithm/hash/MD5Utils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/algorithm/hash/MurMurHashUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/concurrency/concurren/ConceptSimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/concurrency/concurren/ConceptSimple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/concurrency/concurren/DeadLockSimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/concurrency/concurren/DeadLockSimple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/concurrency/concurren/SynchronizedDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/concurrency/concurren/SynchronizedDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/concurrency/concurren/Thread.MD" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/concurrency/concurren/Thread.MD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/concurrency/concurren/ThreadProducerAndConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/concurrency/concurren/ThreadProducerAndConsumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/concurrency/concurren/lock/ConceptExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/concurrency/concurren/lock/ConceptExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/concurrency/concurren/lock/ConditionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/concurrency/concurren/lock/ConditionExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/concurrency/concurren/lock/LockSupportExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/concurrency/concurren/lock/LockSupportExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/concurrency/concurren/lock/ReentrantReadWriteLockExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/concurrency/concurren/lock/ReentrantReadWriteLockExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/concurrency/concurren/lock/ReenttrantLockExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/concurrency/concurren/lock/ReenttrantLockExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/concurrency/concurren/lock/StampedLockExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/concurrency/concurren/lock/StampedLockExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/concurrency/thread/ChildProcessDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/concurrency/thread/ChildProcessDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/concurrency/thread/ConceptSimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/concurrency/thread/ConceptSimple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/concurrency/thread/ProcessInfoSimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/concurrency/thread/ProcessInfoSimple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/concurrency/thread/Thread.MD" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/concurrency/thread/Thread.MD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/concurrency/thread/ThreadAlternatePrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/concurrency/thread/ThreadAlternatePrint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/concurrency/thread/ThreadBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/concurrency/thread/ThreadBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/concurrency/thread/ThreadDump.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/concurrency/thread/ThreadDump.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/concurrency/thread/ThreadInterruptSimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/concurrency/thread/ThreadInterruptSimple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/concurrency/thread/ThreadMainSimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/concurrency/thread/ThreadMainSimple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/concurrency/thread/ThreadSimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/concurrency/thread/ThreadSimple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/concurrency/thread/ThreadStop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/concurrency/thread/ThreadStop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/concurrency/thread/ThreadWaitAndNotifySimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/concurrency/thread/ThreadWaitAndNotifySimple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/lange/ControlFlowStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/lange/ControlFlowStatements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/lange/ExpressionsStatementsAndBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/lange/ExpressionsStatementsAndBlocks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/lange/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/lange/Operators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuawei/deepinjava/lange/PrimiitiveDteType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/lange/PrimiitiveDteType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liuawei/deepinjava/HelloWorldController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liuawei/deepinjava/algorithm/hash/ConsistentHash.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liuawei/deepinjava/algorithm/hash/MD5Utils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liuawei/deepinjava/algorithm/hash/MurMurHashUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liuawei/deepinjava/concurrency/concurren/ConceptSimple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liuawei/deepinjava/concurrency/concurren/Container.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liuawei/deepinjava/concurrency/concurren/Counter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liuawei/deepinjava/concurrency/concurren/CounterSynchronized.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liuawei/deepinjava/concurrency/concurren/DeadLockSimple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liuawei/deepinjava/concurrency/concurren/SynchronizedDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liuawei/deepinjava/concurrency/concurren/ThreadProducerAndConsumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liuawei/deepinjava/concurrency/concurren/lock/ConceptExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liuawei/deepinjava/concurrency/concurren/lock/ConditionExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liuawei/deepinjava/concurrency/concurren/lock/LockSupportExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liuawei/deepinjava/concurrency/concurren/lock/ReentrantReadWriteLockExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liuawei/deepinjava/concurrency/concurren/lock/ReenttrantLockExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liuawei/deepinjava/concurrency/concurren/lock/StampedLockExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liuawei/deepinjava/concurrency/thread/ChildProcessDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liuawei/deepinjava/concurrency/thread/ConceptSimple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liuawei/deepinjava/concurrency/thread/ProcessInfoSimple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liuawei/deepinjava/concurrency/thread/Thread1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liuawei/deepinjava/concurrency/thread/Thread2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liuawei/deepinjava/concurrency/thread/ThreadAlternatePrint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liuawei/deepinjava/concurrency/thread/ThreadBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liuawei/deepinjava/concurrency/thread/ThreadDump.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liuawei/deepinjava/concurrency/thread/ThreadInterruptSimple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liuawei/deepinjava/concurrency/thread/ThreadMainSimple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liuawei/deepinjava/concurrency/thread/ThreadSimple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liuawei/deepinjava/concurrency/thread/ThreadStop$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liuawei/deepinjava/concurrency/thread/ThreadStop$StoppableAction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liuawei/deepinjava/concurrency/thread/ThreadStop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liuawei/deepinjava/concurrency/thread/ThreadWaitAndNotifySimple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liuawei/deepinjava/lange/ControlFlowStatements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liuawei/deepinjava/lange/ExpressionsStatementsAndBlocks.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liuawei/deepinjava/lange/Operators.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liuawei/deepinjava/lange/PrimiitiveDteType.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/collection/set/DayEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/collection/set/EnumSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/collection/set/HashSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/collection/set/LinkedHaseSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/collection/set/TreeSetExampls.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/collection/HashMapSimple.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,6 +43,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -152,9 +96,9 @@
       <recent name="D:\awei\github\deepinjava\src\main\java\com\liuawei\deepinjava\concurrency\Thread" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HashMapSimple">
-    <configuration name="DeadLockSimple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liuawei.deepinjava.concurrency.concurren.DeadLockSimple" />
+  <component name="RunManager" selected="Application.LinkedHaseSetExample">
+    <configuration name="EnumSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.evan.deepinjava.collection.set.EnumSetExample" />
       <module name="deepinjava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -167,22 +111,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MurMurHashUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liuawei.deepinjava.algorithm.hash.MurMurHashUtils" />
+    <configuration name="HashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.evan.deepinjava.collection.set.HashSetExample" />
       <module name="deepinjava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadAlternatePrint (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liuawei.deepinjava.concurrency.thread.ThreadAlternatePrint" />
+    <configuration name="LinkedHaseSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.evan.deepinjava.collection.set.LinkedHaseSetExample" />
       <module name="deepinjava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadProducerAndConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liuawei.deepinjava.concurrency.concurren.ThreadProducerAndConsumer" />
+    <configuration name="TreeSetExampls" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.evan.deepinjava.collection.set.TreeSetExampls" />
       <module name="deepinjava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -190,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedHaseSetExample" />
+        <item itemvalue="Application.HashSetExample" />
+        <item itemvalue="Application.EnumSetExample" />
+        <item itemvalue="Application.TreeSetExampls" />
         <item itemvalue="Application.HashMapSimple" />
-        <item itemvalue="Application.MurMurHashUtils" />
-        <item itemvalue="Application.ThreadProducerAndConsumer" />
-        <item itemvalue="Application.ThreadAlternatePrint (1)" />
-        <item itemvalue="Application.DeadLockSimple" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +152,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/evan/deepinjava/concurrency/thread/ChildProcessDemo.java</url>
           <line>14</line>
-          <properties class="com.liuawei.deepinjava.concurrency.thread.ChildProcessDemo" method="main">
+          <properties class="com.evan.deepinjava.concurrency.thread.ChildProcessDemo" method="main">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="1" />
@@ -216,7 +160,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/evan/deepinjava/concurrency/thread/ThreadInterruptSimple.java</url>
           <line>9</line>
-          <properties class="com.liuawei.deepinjava.concurrency.thread.ThreadInterruptSimple" method="main">
+          <properties class="com.evan.deepinjava.concurrency.thread.ThreadInterruptSimple" method="main">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="2" />
@@ -224,7 +168,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/evan/deepinjava/algorithm/hash/MurMurHashUtils.java</url>
           <line>19</line>
-          <properties class="com.liuawei.deepinjava.algorithm.hash.MurMurHashUtils" method="main">
+          <properties class="com.evan.deepinjava.algorithm.hash.MurMurHashUtils">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="3" />
@@ -238,6 +182,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/evan/deepinjava/algorithm/hash/MurMurHashUtils.java</url>
           <line>31</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/evan/deepinjava/collection/set/HashSetExample.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../develop/jdk1.8/jdk/src.zip!/java/util/HashSet.java</url>
+          <line>254</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
