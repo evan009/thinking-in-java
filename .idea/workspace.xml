@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34278f56-e3ec-41db-937a-2f3ee3646f16" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/collection/set/DayEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/collection/set/EnumSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/collection/set/HashSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/collection/set/LinkedHaseSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/collection/set/TreeSetExampls.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/collection/HashMapSimple.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/deepinjava/java8/lambda/LambdaExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deepinjava.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,14 +77,15 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../consistent-hash" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -96,7 +95,7 @@
       <recent name="D:\awei\github\deepinjava\src\main\java\com\liuawei\deepinjava\concurrency\Thread" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LinkedHaseSetExample">
+  <component name="RunManager" selected="Application.LambdaExample">
     <configuration name="EnumSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.evan.deepinjava.collection.set.EnumSetExample" />
       <module name="deepinjava" />
@@ -104,15 +103,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashMapSimple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.evan.deepinjava.collection.HashMapSimple" />
+    <configuration name="HashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.evan.deepinjava.collection.set.HashSetExample" />
       <module name="deepinjava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.evan.deepinjava.collection.set.HashSetExample" />
+    <configuration name="LambdaExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.evan.deepinjava.java8.lambda.LambdaExample" />
       <module name="deepinjava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -134,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LambdaExample" />
         <item itemvalue="Application.LinkedHaseSetExample" />
         <item itemvalue="Application.HashSetExample" />
         <item itemvalue="Application.EnumSetExample" />
         <item itemvalue="Application.TreeSetExampls" />
-        <item itemvalue="Application.HashMapSimple" />
       </list>
     </recent_temporary>
   </component>
