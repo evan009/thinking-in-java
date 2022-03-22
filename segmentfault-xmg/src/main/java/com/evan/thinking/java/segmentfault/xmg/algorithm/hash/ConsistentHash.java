@@ -8,6 +8,7 @@ import java.util.TreeMap;
 import org.apache.commons.codec.digest.MurmurHash3;
 import org.apache.commons.lang3.StringUtils;
 
+
 /**
  * @Desc: 一致性Hash
  * @author: liuawei
