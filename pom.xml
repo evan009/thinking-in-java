@@ -18,6 +18,8 @@
         <module>daily-summary</module>
         <!-- 最佳实践 -->
         <module>best-practices</module>
+        <!-- 历史存档 -->
+        <module>history-archive</module>
     </modules>
 
 
